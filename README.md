@@ -1,1 +1,1 @@
-# CoolAlgorithms
+# Greatest Hits Algorithms
